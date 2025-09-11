@@ -1,6 +1,6 @@
-# 🌐 Brandon Cruz  
+# 🌐 Jonissa Carrion
 
-### 👨‍💻 Desarrolladora javaScript | Ingeniera de Sistemas  
+### 👨‍💻 Desarrolladora front-end | Ingeniera de Sistemas  
 📍 Nicaragua, Centroamérica
 
 ---
