@@ -30,5 +30,5 @@ Universidad Nacional de Ingeniería (UNI) – Nicaragua
 
 ## 🌐 Conecta conmigo  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-cruz-54962b218/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonissa-carrion-55895b383/)  
 📩 **Correo:** jonissa.carrion.dev@gmail.com  
