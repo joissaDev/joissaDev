@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mí  
-Soy **Desarrolladora de Software** efocada en crear soluciones tecnológicas.  
+Soy **Desarrolladora de Software** enfocada en crear soluciones tecnológicas.  
 
 Me apasiona el desarrollo **front-end** y el **diseño UI/UX** para ofrecer sistemas escalables, confiables y de alto impacto.  
 
